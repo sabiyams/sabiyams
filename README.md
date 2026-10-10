@@ -8,8 +8,6 @@ https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=26&duration
 
 ## 📌 About Me
 
----
-
 - 🎓 CSE Graduate specializing in Artificial Intelligence from Chalapathi University
 - 💡 Passionate about Java Backend Development, Full Stack Development, and AI-powered Applications
 - 🚀 Currently learning and building projects with Java and Spring Boot
