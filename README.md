@@ -2,11 +2,13 @@
 
 ### **Java Backend Development | Full Stack Java Development | Software Engineering**
 
-[Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=26&duration=3000&pause=1000&color=36BCF7&center=true&vCenter=true&width=600&height=50&lines=Java+Backend+Developer;Full+Stack+Java+Developer;Spring+Boot+Developer;Building+Real-World+Applications)
+https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=26&duration=3000&pause=1000&color=36BCF7&center=true&vCenter=true&width=600&height=50&lines=Java+Backend+Developer;Full+Stack+Java+Developer;Spring+Boot+Developer;Building+Real-World+Applications
 
 ---
 
 ## 📌 About Me
+
+---
 
 - 🎓 CSE Graduate specializing in Artificial Intelligence from Chalapathi University
 - 💡 Passionate about Java Backend Development, Full Stack Development, and AI-powered Applications
@@ -21,6 +23,8 @@
 ---
 
 ## 🛠️ Tech Stack
+
+---
 
 ### 💻 Programming Languages
 
@@ -60,6 +64,8 @@
 ---
 
 ## 🌐 Connect With Me
+
+---
 
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/sabiyams)
 
