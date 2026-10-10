@@ -97,12 +97,6 @@
 
 ---
 
-## 📊 Contribution Graph
-
-[![Sabiya's GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=sabiyams&theme=tokyo-night)](https://github.com/sabiyams)
-
----
-
 ## 🌐 Connect With Me
 
 [![GitHub](https://img.shields.io/badge/GitHub-sabiyams-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/sabiyams)
