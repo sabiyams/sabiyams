@@ -1,4 +1,3 @@
-## Hi I'm Pathan Sabiya 👋
 # Hi, I'm Sabiya Pathan 👋
 
 ### **Java Backend Development | Full Stack Java Development | Software Engineering**
