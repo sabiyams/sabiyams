@@ -24,7 +24,6 @@ https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=26&duration
 
 ## 🛠️ Tech Stack
 
----
 
 ### 💻 Programming Languages
 
